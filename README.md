@@ -7,7 +7,7 @@ It lets you record drink orders, track pending/completed ones, and view insightf
 
 ## 🧪 Try the App
 
-### 📱 [Download APK directly from Google Drive](https://drive.google.com/file/d/1_aMnWuAE953NeeAMwP9QeOW6EkZ-KTf5/view?usp=drive_link)
+### 📱 [Download APK directly from Google Drive](https://drive.google.com/file/d/12aJgUqNM-5f6B155iH0Yc1CUzShz7OaQ/view?usp=drive_link)
 
 ### 📷 Or scan the QR code below to see all my APKs:
 
