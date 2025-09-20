@@ -1,10 +1,12 @@
 import 'package:flutter/material.dart';
+import 'package:smart_ahwa/config/cash/cash_helper.dart';
 import 'package:smart_ahwa/view/splash_view.dart';
 import 'package:smart_ahwa/widget/theme.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
-void main() {
+void main() async {
+  await CashHelper.init();
   runApp(const ProviderScope(child: MyApp()));
 }
 

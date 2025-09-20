@@ -53,7 +53,7 @@ It lets you record drink orders, track pending/completed ones, and view insightf
 ---
 
 ## 📦 Packages Used
-
+- [`shared_preferences`](https://pub.dev/packages/shared_preferences) – Persistent storage for onboarding
 - [`Riverpod`](https://pub.dev/packages/riverpod) – State management.
 - [`lottie`](https://pub.dev/packages/lottie) – Beautiful animations.
 - [`google_fonts`](https://pub.dev/packages/google_fonts) – Custom fonts.
